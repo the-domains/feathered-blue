@@ -1,0 +1,28 @@
+name: feathered blue
+favicon: null
+layout_spectrum: 0.9986390278209001
+typography_spectrum: 0.0725581671576947
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.08587200031615794
+  lightness: 0.9620580731425434
+  saturation: 0.5890112167689949
+  rhythmicContrast: 0.14777244930155575
+purpose: []
