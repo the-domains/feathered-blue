@@ -1,6 +1,6 @@
 name: feathered blue
 favicon: null
-layout_spectrum: 0.49185
+layout_spectrum: 0.23981
 typography_spectrum: 0.74728
 title: feathered blue
 cta:
@@ -22,8 +22,8 @@ color:
     - '#3c303c'
     - '#bfb793'
     - '#707967'
-  brandStrength: 0.8125
+  brandStrength: 1
   lightness: 0.75
   saturation: 0.125
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.25
 purpose: []
